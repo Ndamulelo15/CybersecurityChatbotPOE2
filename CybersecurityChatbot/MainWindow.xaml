@@ -131,6 +131,7 @@
             <!-- Header -->
             <Border Grid.Row="0" Background="#1a3a5c" Padding="10,8">
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
                     <Image Source="/logo.jpeg" Height="35" Width="50" Margin="0,0,10,0"/>
                     <StackPanel>
                         <TextBlock Text="Cybersecurity Awareness Bot" 
