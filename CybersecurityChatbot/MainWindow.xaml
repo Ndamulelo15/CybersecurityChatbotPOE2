@@ -17,10 +17,7 @@
 
             <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
                 <!-- Logo -->
-                <Image Source="logo.jpeg" 
-                       Height="180" 
-                       Width="270" 
-                       Margin="0,0,0,20"/>
+                <Image Source="/logo.jpeg" Height="180" Width="270" Margin="0,0,0,20"/>
 
                 <!-- Welcome message -->
                 <TextBlock
@@ -66,10 +63,7 @@
 
             <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
                 <!-- Logo -->
-                <Image Source="logo.jpeg" 
-                       Height="150" 
-                       Width="225" 
-                       Margin="0,0,0,20"/>
+                <Image Source="/logo.jpeg" Height="150" Width="225" Margin="0,0,0,20"/>
 
                 <!-- Hint message -->
                 <TextBlock
@@ -137,11 +131,7 @@
             <!-- Header -->
             <Border Grid.Row="0" Background="#1a3a5c" Padding="10,8">
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-              
-                    <Image Source="logo.jpeg"
-                           Height="35" 
-                           Width="50" 
-                           Margin="0,0,10,0"/>
+                    <Image Source="/logo.jpeg" Height="35" Width="50" Margin="0,0,10,0"/>
                     <StackPanel>
                         <TextBlock Text="Cybersecurity Awareness Bot" 
                                    FontSize="14" 
