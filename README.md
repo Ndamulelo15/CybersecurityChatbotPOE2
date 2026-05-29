@@ -324,7 +324,7 @@ Possible future enhancements include:
 
 # Author
 
-Cybersecurity Awareness Bot Project
+Ndamulelo Tshivhula
 
 ---
 
