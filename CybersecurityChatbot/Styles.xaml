@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="PrimaryDark" Color="#0D2B3E"/>
+    <SolidColorBrush x:Key="PrimaryBlue" Color="#1E6F5C"/>
+    <SolidColorBrush x:Key="AccentColor" Color="#289672"/>
+    <SolidColorBrush x:Key="BackgroundGray" Color="#F0F3F5"/>
+    <SolidColorBrush x:Key="BubbleUser" Color="#1E6F5C"/>
+    <SolidColorBrush x:Key="BubbleBot" Color="#FFFFFF"/>
+
+</ResourceDictionary>
