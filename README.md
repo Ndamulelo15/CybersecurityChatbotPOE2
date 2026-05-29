@@ -326,9 +326,10 @@ Possible future enhancements include:
 
 Ndamulelo Tshivhula
 
+
 ---
 
 # License
 
-This project is for educational purposes.
+This project is for educational purposes teaching people about cybersecurity.
 
